@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "660fa3f825193ee845263681"
+  },
+  "player_name": "sasindu",
+  "dijkstra_duration": 0.0001621246337890625,
+  "bellman_ford_duration": 0.00017404556274414062
+},
+{
+  "_id": {
+    "$oid": "660fd701700a125d0e185e53"
+  },
+  "player_name": "sasindu",
+  "dijkstra_duration": 0.00005888938903808594,
+  "bellman_ford_duration": 0.0003502368927001953
+},
+{
+  "_id": {
+    "$oid": "660fd742b55f4b60e907d04e"
+  },
+  "player_name": "sasindu",
+  "dijkstra_duration": 0.00005936622619628906,
+  "bellman_ford_duration": 0.00013208389282226562
+}]

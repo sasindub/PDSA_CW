@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "660fb17ad6fc2037823c12c9"
+  },
+  "username": "sasindu",
+  "correct_response": "O",
+  "timestamp": {
+    "$date": "2024-04-05T13:38:26.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660fb17dd6fc2037823c12ca"
+  },
+  "username": "sasindu",
+  "correct_response": "X",
+  "timestamp": {
+    "$date": "2024-04-05T13:38:29.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "660fd8d4581438ada0836fae"
+  },
+  "username": "sasindu",
+  "correct_response": "X",
+  "timestamp": {
+    "$date": "2024-04-05T16:26:20.252Z"
+  }
+}]
